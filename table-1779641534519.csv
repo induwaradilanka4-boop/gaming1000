@@ -1,0 +1,10 @@
+﻿Feature,Description
+🎬 **Loading Screen**,"Animated progress bar with ""SF"" logo"
+🖱️ **Custom Cursor**,Neon ring cursor with hover scaling (desktop only)
+✨ **Particle Background**,60 animated particles with connection lines
+⌨️ **Typing Effect**,Cycles through 4 roles with blinking cursor
+📊 **Animated Counters**,Stats count up with easing when scrolled into view
+📜 **Reveal on Scroll**,Elements fade in smoothly using Intersection Observer
+🔥 **Glitch Effect**,Random character glitch on hero title
+📈 **Scroll Progress Bar**,Top bar showing scroll position
+🎵 **Hover Sound**,Subtle Web Audio API beep on button hover
